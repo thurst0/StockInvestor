@@ -2,9 +2,15 @@
 
 Technical Specifications
 ------------------------
-JavaScript solution for Stock Investors.  You can get current stock prices, make faux transactions, and filter your previous transactions  
+Simple JavaScript solution for Stock Investors.  You can get current stock prices, make faux transactions, and filter your previous transactions  
 Mostly vanilla javascript.  VueJS is used for the data binding, and requireJS for module loading and dependency injection.  
 Web services are hosted using node-express
+
+## Installation
+So long as you have node installed, you should only need to do the following.  
+Modify start_server.js to indicate where you have downloaded the project and want to run it from.   
+Run the start_server.cmd file or naviage to start_server.js and run node start_server.js  
+From there you should be able to run from your browser using the following url : http://localhost:8081  
 
 ## File Structure
  
