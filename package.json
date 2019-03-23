@@ -1,0 +1,24 @@
+{
+  "name": "stockinvestor",
+  "version": "1.0.0",
+  "description": "Stock Investor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thurst0/LightTask.git"
+  },
+  "author": "Tony Hurst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thurst0/LightTask/issues"
+  },
+  "homepage": "https://github.com/thurst0/LightTask#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-spa": "0.0.2"
+  }
+}
